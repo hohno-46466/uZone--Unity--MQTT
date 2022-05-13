@@ -1,3 +1,3 @@
-# vZone--Unity--MQTT
+# vZone--Unity--MQTT-JSON-OSC
 
-Unity with MQTT library
+Unity with MQTT, JSON, and OSC support

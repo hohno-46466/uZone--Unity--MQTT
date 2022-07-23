@@ -12,3 +12,5 @@ Unity with MQTT, JSON, and OSC support
 Note: url = https://github.com/hohno-46466/vZone--Unity--MQTT-JSON-OSC
 
 Note: url = git@github.com:hohno-46466/vZone--Unity--MQTT-JSON-OSC.git
+
+-EOF-
